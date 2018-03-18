@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\zoe\documents\visual studio 2015\projects\sort comparison\sort comparison\source.cpp(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\zoe\documents\visual studio 2015\projects\sort comparison\sort comparison\source.cpp(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Sort Comparison.vcxproj -> C:\Users\Zoe\Documents\Visual Studio 2015\Projects\Sort Comparison\Debug\Sort Comparison.exe
+  Sort Comparison.vcxproj -> C:\Users\Zoe\Documents\Visual Studio 2015\Projects\Sort Comparison\Debug\Sort Comparison.pdb (Partial PDB)
